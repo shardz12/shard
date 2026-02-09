@@ -1,2 +1,31 @@
-# shard
-Hello
+# 👋 Hi, I’m Shard
+
+I’m a developer who enjoys building clean, useful software.
+
+- 💻 Currently working on: Survey Application Sytem
+- 🌱 Learning: Javascript, Java, Springboot, Android, HTML, CSS, PHP, and SQL
+- 🧠 Interested in: Programming, Workout, Running, Guitar, and Logic Games
+- 📍 Based in: Negros Island Region
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java, Android, HTML, CSS, PHP, and SQL
+
+---
+
+## 🚀 Projects
+
+### 🔹 Project Name
+Short description  
+🔗 https://github.com/NOTAVAILABLE/project
+
+---
+
+## 📫 Contact
+
+- LinkedIn: NA
+- Portfolio: NA
+- Email: shardvinson@gmail.com
